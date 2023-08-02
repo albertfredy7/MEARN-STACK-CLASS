@@ -1,0 +1,140 @@
+Span tag
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------
+
+PLACEHOLDER IS AN HTML 5 UPDATE
+
+CSS - CASCADING STYLE SHEET
+
+different way of using CSS
+    - inline css
+            syntax
+                style="property:value;"
+
+    
+    - internal css
+            SYNTAX
+                <style>
+                h1{
+                    property:value;
+                }
+                </style>
+
+
+    - Enternal CSS ( best way because it reduces the complexity)
+            SYNTAX
+                tagname{
+                    property:value;
+                }
+
+
+                css file should be linked with the index.html file
+
+
+    ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+    CSS selectors
+
+-
+
+-
+
+-
+
+-Universal Selectors
+
+    denoted by *
+
+
+
+
+
+
+----------------------------------------------------------------------------------
+
+##########################  CSS BOX MODEL   #############################
+
+
+
+type of borders
+    -   Solid
+    -   Dotted
+    -   Dashed
+    -   Double
+    -   Grove
+    -   Ridge
+    -   inset
+    -   outset
+
+
+Margin
+    - margin-left
+
+    - margin-right
+
+    -margin-top
+
+    -margin-bottom 
+
+    - margin: top right bottom left
+
+    - margin: top-bottom left-right
+
+
+
+
+----------------------------------------------------------------------------------
+
+
+DIV TAG   <DIV>
+
+            - its a blocklevel tag
+            - to mke it align to left one after other , float propery is used
+            
+
+
+
+
+
+MEDIA QUERY FOR RESPONSIVENESS
+
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {...}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {...}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {...}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {...}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {...}
+
+
+
+
+
+BOOTSTRAP
+
+Different classes
+
+    - container
+        margin from left and right 
+
+    - container-fluid
+        Small margins
+
+

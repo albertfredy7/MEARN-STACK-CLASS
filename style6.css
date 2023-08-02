@@ -1,0 +1,14 @@
+*{
+    margin: 0px;
+}
+
+header{
+    width: 100%;
+    height: 600px;
+    background-image: url("https://e0.pxfuel.com/wallpapers/52/830/desktop-wallpaper-food-background-food-food-recipes-food-menu-greek-food.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    opacity: 1;
+    background-attachment: fixed;
+}

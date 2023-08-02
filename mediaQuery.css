@@ -1,0 +1,15 @@
+img{
+    width: 400px;
+}
+@media(min-width: 768px) {
+    .mobile-image {
+      display: none;
+    }
+  }
+  
+  /* Media query for screens with a width less than 776px (mobile) */
+  @media screen and (max-width: 767px) {
+     .desktop-image {
+      display: none;
+    }
+  }

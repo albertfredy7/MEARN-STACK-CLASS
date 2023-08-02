@@ -1,0 +1,125 @@
+*{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    
+}
+
+
+
+.container img{
+    width: 40px;
+    position: relative;
+    display: block;
+    width: 60px;
+    margin: auto;
+    padding-top: 25px;
+    
+    
+}
+
+.container p{
+    position: relative;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24px;
+    font-weight: 300;
+    text-align: center;
+    margin: auto;
+}
+
+.container .form{
+    
+    
+    margin: auto;
+    margin-top: 15px;
+    padding: 16px;
+    font-size: 12px;
+    font-weight: 400;
+    background-color: #f6f8fa;
+    border: 1px solid hsl(210 18% 87% / 1);
+    border-radius: 6px;
+    width: 250px;
+
+}
+.inputBox{
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px 0px;
+    width: 92%;
+    height: 10px;
+    border: 1px solid hsl(210 18% 87% / 1);
+    
+}
+
+input:focus
+{
+    border: 2px solid rgb(40, 97, 255);
+    outline-offset: 0px;
+    outline: none;
+}
+
+.label{
+    font-size: 13px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+.passwordSection{
+    display: flex;
+    justify-content: space-between;
+}
+.forgotPassword{
+    color: rgb(40, 97, 255);
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.signin{
+    width: 98%;
+    padding: 8px;
+    background-color: rgb(31, 136, 61);
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+    border: 0;
+    border-radius: 6px;
+}
+
+.newAccount{
+    text-align: center;
+    position: relative;
+    padding: 15px 20px;
+    border: 1px solid hsl(210 18% 87% / 1);
+    width: 250px;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 6px;
+}
+
+.newAccount p{
+    font-size: 14px;
+    font-weight: 400;
+}
+.newAccount a{
+    padding-left: 5px;
+    text-decoration: none;
+    color:rgb(40, 97, 255);
+    font-weight: 500;
+}
+
+.footer ul{
+
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 250px;
+    padding: 4%;
+}
+ul a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 12px;
+    color:rgb(40, 97, 255);
+    
+}
+#contact{
+    font-size: 11px; color: #656d76;
+}

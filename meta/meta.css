@@ -1,0 +1,106 @@
+*{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+img{
+    width: 300px;
+    margin-top: 250px;
+    margin-left: 300px;
+}
+.info{
+    text-align: center;
+    border: 1px solid silver;
+   width: 350px;
+   height: 350px; 
+   margin-top:-300px;
+   margin-left: 1000px;
+   padding: 20px;
+   border-radius: 7px;
+   box-sizing:600%;
+   background-color: white;
+   box-shadow:  0px 0px 2px 2px silver;
+   border-color: silver;
+   border-color: aliceblue;
+   
+}
+button{
+    background-color: #1877f2;
+    border-radius: 7px;
+    border: 1px;
+    color:white;
+    width: 95%;
+    height: 50px;
+    text-align:center;
+    font-size:large;
+    
+}
+.create{
+    padding: 10px 60px;
+    background-color: rgb(41, 198, 41);
+    width: 80%;
+    height: 50px;
+    color: white;
+    font-size:medium;
+}
+    
+#hi{
+    margin-top: 1%;
+    margin-left: 59%;
+
+}
+#face{
+    font-size:150%;
+    font-family: Arial, Helvetica, sans-serif;
+    size: 100px;
+    margin-top:0px;
+    margin-left: 320px;
+}
+
+.inputs{
+    border: 1px solid silver;
+    padding: 0 10px;
+}
+
+
+.inputs:focus
+{
+    border: 1px solid #1877f2;
+    outline-offset: 0px;
+    outline: none;
+}
+.forgot{
+    text-decoration: none;
+    color: #1877f2;
+    font-weight: medium;
+}
+.page{
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+    padding-left: 490px;
+}
+
+.footer{
+    height: 150px;
+    width: 100%;
+    background: #fff;
+    margin-top: 140px;
+    
+
+
+
+}
+.footer ul{
+
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    padding: 4%;
+    
+}
+ul a{
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 12px;
+    color: #8a8d91;;
+}
