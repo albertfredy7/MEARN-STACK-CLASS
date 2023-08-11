@@ -1,0 +1,45 @@
+Java Script
+
+---------------------------------------------------
+
+
+
+1) display
+
+console.log(content)
+
+
+2) Datatype 
+
+    //typeof is used to understand which type of datatype
+
+    // + is used for concatination
+
+    - text (string)
+    - integer (number)
+    - boolean
+
+variable : to store data 
+
+rule : identifiers
+character
+two or more word - no space between
+                        underscore can be used integer
+
+
+keyword variable
+---------------------
+
+const, var, let
+
+
+temperate variable
+---------------------------------
+
+`text ${variable}`
+
+
+Hoisting
+-----------------------------
+
+Defifing the variable before declared
